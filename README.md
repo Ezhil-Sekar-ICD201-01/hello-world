@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Riddle: The more you take, the more you leave behind. What am I?
